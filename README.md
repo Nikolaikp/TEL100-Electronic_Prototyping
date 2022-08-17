@@ -1,1 +1,1 @@
-# TEL100-Electronic_Prototyping
+# TEL100: Electronic Prototyping
